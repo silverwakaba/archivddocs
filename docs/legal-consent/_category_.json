@@ -1,0 +1,8 @@
+{
+  "label": "Legal Consent",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Legal consent that you agree to during and when using ArchivD services."
+  }
+}
