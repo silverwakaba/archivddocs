@@ -1,0 +1,8 @@
+{
+  "label": "Billing",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Get to know the ArchivD Project billing and payment policy."
+  }
+}

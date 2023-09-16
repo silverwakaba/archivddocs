@@ -8,7 +8,7 @@ Let's discover **ArchivD in less than 5 minutes**.
 
 ## What is ArchivD
 
-ArchivD is a file hosting provider. We offer file hosting in both centralized and decentralized.
+ArchivD is a file hosting provider. We offer file hosting in both centralized (web2) and decentralized (web3) storage networks. You can [start trying](https://www.archivd.net/register) it for free.
 
 ## Why should I use ArchivD
 
@@ -38,6 +38,8 @@ You can hotlink the stuff as long as you still has a remaining data cap equivale
 This means that you cannot hotlink the stuff if you don't have equivalent data cap to the file size and/or if the file is not yours.
 
 You can purchase a data cap that suits your needs. These data caps are roll over, continue to accumulate when you purchase and will not reset. This means you can use the entire data cap for hotlinking purposes.
+
+You can continue to use these data cap even if your account is no longer premium.
 
 ## I still have questions
 

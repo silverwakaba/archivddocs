@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'ArchivD Docs',
   tagline: 'Documenting ArchivD documentation. Because why not?',
-  favicon: 'https://static.silverspoon.me/system/logo/logo-50px.png',
+  favicon: './img/logo/logo-50px.png',
 
   // Set the production url of your site here
   url: 'https://docs.archivd.net',
@@ -70,7 +70,7 @@ const config = {
         title: 'ArchivD',
         logo: {
           alt: 'A Silverspoon Logo',
-          src: 'https://static.silverspoon.me/system/logo/logo-50px.png',
+          src: './img/logo/logo-50px.png',
         },
         items: [
           {
