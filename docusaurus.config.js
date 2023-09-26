@@ -48,7 +48,7 @@ const config = {
           blogSidebarCount: 0,
           showReadingTime: true,
           feedOptions: {
-            type: 'all',
+            type: 'json',
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -106,16 +106,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: '#',
               },
             ],
           },
@@ -125,10 +117,6 @@ const config = {
               {
                 label: 'Blog',
                 to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
