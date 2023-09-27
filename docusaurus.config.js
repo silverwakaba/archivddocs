@@ -44,7 +44,7 @@ const config = {
           // editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
-          postsPerPage: 1,
+          postsPerPage: 10,
           blogSidebarCount: 0,
           showReadingTime: true,
           feedOptions: {
