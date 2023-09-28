@@ -49,7 +49,7 @@ After that, please please navigate to the [API Key menu](https://www.archivd.net
 
 To create an API Key you just click the **"Create New"** button. After that, you will get a notification that the API Key was successfully created. Please note that currently one user can only create one API Key.
 
-GAMBAR
+![Getting Started Hotlink Paid API Step One](/img/docs/how-to/api/hotlink/01.webp)
 
 After creating an API Key, you can also update it by clicking the **"Renew"** button. Later, the previous API Key will no longer be able to be used.
 
