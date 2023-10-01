@@ -40,8 +40,14 @@ If not but you feel interested, you can directly apply your websites, blogs or g
 
 To see the quality of ArchivD's service, you can try playing the video below, then please conclude it yourself. I don't want to lure you with words, but with your own experience.
 
-<div>
-    <iframe class="embed-responsive-item" src="https://archivd.net/player/01hbnckrz78q1r9bd61ysjr2ta" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<div className="video-container">
+    <iframe width="100%" height="480" src="https://archivd.net/player/01hbncvh5x18x5rsspchthxsdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 </div>
 
-For your information, the video above is a 1080p resolution stock video originating from the Videvo. You can [download it directly](https://www.videvo.net/video/raindrops-in-super-slow-motion/3313/) or via [this page](https://archivd.net/file/01hbncvh5x18x5rsspchthxsdg).
+For your information, the video above is a 1080p resolution stock video originating from the Videvo. You can [download it directly](https://www.videvo.net/video/raindrops-in-super-slow-motion/3313/) or via [our download page](https://archivd.net/file/01hbncvh5x18x5rsspchthxsdg).
+
+<div className="video-container">
+    <iframe width="100%" height="480" src="https://archivd.net/player/01hbnckrz78q1r9bd61ysjr2ta" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+</div>
+
+Need an extreme usecase? Well, the video above is a 4K resolution stock video, also originating from the Videvo. You can [download it directly](https://https://www.videvo.net/video/drone-shot-orbiting-woodland-as-sunlight-bursts-through-trees/1007520/) or via [our download page](https://archivd.net/file/01hbnckrz78q1r9bd61ysjr2ta). For this one, I'm not too sure if our video player can handle 4k resolution videos, but here they are!
