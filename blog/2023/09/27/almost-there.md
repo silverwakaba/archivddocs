@@ -1,7 +1,6 @@
 ---
 authors: waka
-slug: almost-there
-title: Almost There...
+title: "Almost there..."
 tags: [Blog Post]
 ---
 

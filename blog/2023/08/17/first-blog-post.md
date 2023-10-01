@@ -1,7 +1,6 @@
 ---
 authors: waka
-slug: first-blog-post
-title: First Blog Post
+title: "First blog post"
 tags: [Blog Post]
 ---
 

@@ -38,7 +38,8 @@ Only certain people or institutions are eligible to become the reporter. Among t
 If you meet any of the requirements below, please follow these steps to get a reporter account.
 
 - If you don't have an account yet, [please register as new user](https://www.archivd.net/register) using business email.
-- If you already have an account, please send an email to a@a.a containing:
+- If you already have an account, please send an email to support@silverspoon.me containing:
+    - Email subject entitled [Procurement of ArchivD's Reporter Account].
     - A physical or electronic signature of the copyright owner or a person authorized to act on their behalf.
     - Your contact information including your name, address, telephone number, and an email address that you used to register.
     - State that you have a good faith belief that use of the content in the manner complained of is not authorized by the copyright owner, its agents, or the law.
