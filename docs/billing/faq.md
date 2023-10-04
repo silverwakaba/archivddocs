@@ -50,7 +50,7 @@ After payment has been successfully made, your invoice will automatically be rec
 
 ![How do I Upgrade to a Paid User Step Seven](/img/docs/billing/faq/08.webp)
 
-Since Gaga uses SPA technology, please hard reload the page to enjoy the premium service you just purchased.
+Since ArchivD uses SPA technology, please hard reload the page to enjoy the premium service you just purchased.
 
 ## How do I cancel payment?
 

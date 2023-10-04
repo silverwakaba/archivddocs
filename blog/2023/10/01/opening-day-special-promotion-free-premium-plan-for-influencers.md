@@ -22,7 +22,7 @@ For now I want to create a promotion specifically for owners/managers of popular
 
 Maybe right now I can't advertise using money, but I will try to advertise using this kinda social experiments.
 
-Because if this promotion runs smoothly I think the results will be very good. As a project owner, of course I get new potential users and users can also immediately try Gaga as a product. With the performance and service that Gaga provides, I am very confident that the majority of potential users can then become loyal users.
+Because if this promotion runs smoothly I think the results will be very good. As a project owner, of course I get new potential users and users can also immediately try ArchivD as a product. With the performance and service that ArchivD provides, I am very confident that the majority of potential users can then become loyal users.
 
 In the end, I prefer to use this promotion because I can directly return the benefits to the community instead of having to spend money on advertising agencies, right?
 
@@ -51,3 +51,7 @@ For your information, the video above is a 1080p resolution stock video originat
 </div>
 
 Need an extreme usecase? Well, the video above is a 4K resolution stock video, also originating from the Videvo. You can [download it directly](https://https://www.videvo.net/video/drone-shot-orbiting-woodland-as-sunlight-bursts-through-trees/1007520/) or via [our download page](https://archivd.net/file/01hbnckrz78q1r9bd61ysjr2ta). For this one, I'm not too sure if our video player can handle 4k resolution videos, but here they are!
+
+## How many coupons are distributed?
+
+Tbh I don't know, but maybe about 200 coupons equals to $15.000, if we use the current premium price for one year. Well, it is what it is. It's not a bad deal either, right?
