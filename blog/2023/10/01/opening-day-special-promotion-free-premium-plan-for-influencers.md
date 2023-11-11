@@ -1,7 +1,7 @@
 ---
 authors: waka
 title: "Opening day special promotion: Free premium plan for influencers!"
-tags: [Active Promo]
+tags: [Promo]
 ---
 
 After many tiring days of development and testing, finally the day I had been waiting for (and also worry) had arrived. ArchivD, as my first (proper) product in the SaaS business, has finally been officially launched to the public.
